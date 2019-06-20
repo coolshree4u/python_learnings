@@ -16,6 +16,7 @@ print(time.strftime("%A %p"))
 
 
 
+
 print(html.escape('This html fragment contains a <script>script</script>'))
 print(html.unescape('This html fragment contains a &lt;script&gt;script&lt;/script&gt;'))
 
